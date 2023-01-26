@@ -13,13 +13,13 @@
 ## Results
 
 ### Of the employees retiring, the following are the number of titles that will potentially need to be filled:
-#### 25,916 Senior Engineers
-#### 24,926 Senior Staff
-#### 9,285 Engineers
-#### 7,626 Staff
-#### 3,603 Technique Leaders
-#### 1,090 Assistant Engineers
-#### 2 Managers
+* 25,916 Senior Engineers
+* 24,926 Senior Staff
+* 9,285 Engineers
+* 7,626 Staff
+* 3,603 Technique Leaders
+* 1,090 Assistant Engineers
+* 2 Managers
 
 ### There are 1,549 employees that are eligible for mentorship.
 
